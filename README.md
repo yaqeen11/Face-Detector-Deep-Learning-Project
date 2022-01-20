@@ -16,6 +16,6 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 ### Contact Me
 For any questions please contact me <br/>
-- [LinkedIn](https://github.com/Aishah2019)
+- [LinkedIn](https://www.linkedin.com/in/yaqeen-alhawaj-18274a198/)
 <br/><br/>
 Thank you!
